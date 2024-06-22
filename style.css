@@ -115,7 +115,7 @@ nav ul .icon:hover a{
 
 
 .home{
-    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url('./assets/home2.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.5)), url('home2.jpg');
     background-size: cover;
     background-position: center;
     min-height: 90vh;
